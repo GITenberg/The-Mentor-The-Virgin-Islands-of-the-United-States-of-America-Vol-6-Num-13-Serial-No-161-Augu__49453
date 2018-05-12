@@ -1,4 +1,8 @@
 _repo: The-Mentor-The-Virgin-Islands-of-the-United-States-of-America-Vol-6-Num-13-Serial-No-161-Augu__49453
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49453-h/images/cover.jpg
 creator:
   author:
     agent_name: Newman, E. M. (Edward Manuel)
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '43019'
     url: http://www.gutenberg.org/2009/agents/43019
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49453#The-Mentor-The-Virgin-Islands-of-the-United-States-of-America-Vol-6-Num-13-Serial-No-161-Augu_
 gutenberg_issued: '2015-07-16'
 gutenberg_type: Text
 identifiers:
